@@ -1,5 +1,5 @@
 ## Hi there! 👋
-<p>I'm <strong>Jansen Gabrillo</strong>, a 20-year-old friendly BSIT student who loves programming and making web applications.</p>
+<p>I'm <strong>Jansen Gabrillo</strong>, a 20-year-old BSIT student at the Dominican College of Tarlac.</p>
 
 *Socials:* <br>
 
