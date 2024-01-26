@@ -1,5 +1,5 @@
 ## Hi there! 👋
-<p>I'm <strong><a href="https://www.facebook.com/jnsngbrll" style="text-decoration: none">Jansen Gabrillo</a></strong>, a 20-year-old BSIT student at the Dominican College of Tarlac.</p>
+<p>I'm <strong>Jansen Gabrillo</strong>, a 20-year-old BSIT student at the Dominican College of Tarlac.</p>
 
 <strong>*Socials:*</strong> <br>
 
