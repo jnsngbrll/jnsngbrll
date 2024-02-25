@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<p>I'm <strong>Jansen Gabrillo</strong>, a 20-year-old BSIT student at the Dominican College of Tarlac.</p>
+<p>I'm <strong>Jansen Gabrillo</strong>, a 20-year-old Bachelor of Science in Information Technology (BSIT) student at the Dominican College of Tarlac.</p>
 
 ---
 
