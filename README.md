@@ -1,6 +1,6 @@
 <h3>Hi there! 👋</h3>
 
-<p>I'm <strong>Jansen Gabrillo</strong>, a 20-year-old Bachelor of Science in Information Technology (BSIT) student at the Dominican College of Tarlac. I'm passionate about creating cutting-edge web applications, and I'm constantly searching for new possibilities to learn and become proficient with cutting-edge technology.</p>
+<p>I'm <strong>Jansen Gabrillo</strong>, a 20-year-old Bachelor of Science in Information Technology (BSIT) student at the Dominican College of Tarlac. Currently, my primary focus lies in developing web applications and honing my skills in various technologies to enhance my proficiency in web development.</p>
 
 #
 
