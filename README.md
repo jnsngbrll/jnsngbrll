@@ -1,5 +1,3 @@
-#
-
 <strong>🌐 Socials</strong>
 
 • <a href="https://www.facebook.com/jnsngbrll">Facebook</a><br>
