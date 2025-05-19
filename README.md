@@ -3,10 +3,10 @@
 I am a software developer and BS Information Technology graduate based in Tarlac, Philippines.
 
 <strong>My Tools:</strong>
-- <strong>Frontend:</strong> React, Next.js, Framer Motion, CSS, Tailwind CSS
-- <strong>Backend:</strong> Node.js, Express, MongoDB, MySQL Next.js API Routes
+- <strong>Frontend:</strong> JavaScript, TypeScript, React, Next.js, CSS, Tailwind CSS, Bootstrap, Framer Motion
+- <strong>Backend:</strong> Node.js, Express, MongoDB, MySQL, Next.js API Routes
 - <strong>Mobile:</strong> React Native, Expo
-- <strong>Other:</strong> Git, Github, VS Code, Android Studio, Expo Go, Figma 
+- <strong>Other:</strong> Git, Github, VS Code, Android Studio, Expo Go, Figma
 
 <strong>How to Reach Me:</strong>
 - <strong>Email:</strong> <a href="mailto:jansenmarkgabrillo@gmail.com">jansenmarkgabrillo@gmail.com</a>
