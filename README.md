@@ -3,7 +3,7 @@
 I am a software developer and BS Information Technology graduate based in Tarlac, Philippines.
 
 <strong>My Tools:</strong>
-- <strong>Frontend:</strong> HTML, CSS, JavaScript, TypeScript, React, Next.js, CSS, Tailwind CSS, Bootstrap, Framer Motion
+- <strong>Frontend:</strong> HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, Framer Motion
 - <strong>Backend:</strong> PHP, Laravel, Node.js, Express.js, MongoDB, MySQL, Next.js API Routes
 - <strong>Mobile:</strong> React Native, Expo
 - <strong>Other:</strong> Git, Github, VS Code, Android Studio, Expo Go, Figma
