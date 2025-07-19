@@ -14,7 +14,3 @@ I am a software developer and BS Information Technology graduate based in Tarlac
 - <strong>Facebook:</strong> <a href="https://www.facebook.com/jnsngbrll">jnsngbrll</a>
 - <strong>Intagram:</strong> <a href="https://www.instagram.com/jnsngbrll/">jnsngbrll</a>
 
-<strong>My Most Used Languages:</strong>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnsngbrll&layout=compact&hide_title=true&bg_color=1a1a1a&title_color=ffffff&text_color=cccccc&border_color=333333" />
-
