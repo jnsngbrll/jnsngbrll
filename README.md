@@ -1,6 +1,6 @@
-### Hi, I'm Jansen 👋
+### Hi there! 👋
 
-I am a software developer and BS Information Technology graduate based in Tarlac, Philippines.
+I'm Jansen, a software developer based in Tarlac, Philippines.
 
 <strong>My Tools:</strong>
 - <strong>Frontend:</strong> HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, Framer Motion
