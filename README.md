@@ -3,10 +3,10 @@
 I'm <a href="https://jansengabrillo.vercel.app">Jansen</a>, a software developer based in Tarlac, Philippines.
 
 <strong>My Tools:</strong>
-- <strong>Frontend:</strong> HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, Framer Motion
+- <strong>Frontend:</strong> HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, Framer Motion, Shadcn
 - <strong>Backend:</strong> PHP, Laravel, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Supabase, Next.js API Routes
 - <strong>Mobile:</strong> React Native, Expo
-- <strong>Other:</strong> Git, Github, VS Code, Android Studio, Expo Go, Figma
+- <strong>Other:</strong> Git, Github, VS Code, Figma
 
 <strong>How to Reach Me:</strong>
 - <strong>Email:</strong> <a href="mailto:jansenmarkgabrillo@gmail.com">jansenmarkgabrillo@gmail.com</a>
